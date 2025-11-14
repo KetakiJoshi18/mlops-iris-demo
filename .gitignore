@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+*.out
+*.tmp
+iris_model.pkl
